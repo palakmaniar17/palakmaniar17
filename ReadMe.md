@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Palak Chetan Maniar](https://imgur.com/a/3XpfBUw)
+![Palak Chetan Maniar](https://github.com/palakmaniar17/palakmaniar17/issues/1#issue-2397268833)
 Currently working on Generative AI and LLM projects. <br>Ask me about how I learnt deep learning before machine learning. <br>Data Scientist/AI/ML engineer. <br>
 
 ## 🌐 Socials:
