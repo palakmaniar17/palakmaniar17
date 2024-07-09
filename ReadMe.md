@@ -1,7 +1,7 @@
 # 💫 About Me:
+![Palak Chetan Maniar](https://imgur.com/a/3XpfBUw)
 Currently working on Generative AI and LLM projects. <br>Ask me about how I learnt deep learning before machine learning. <br>Data Scientist/AI/ML engineer. <br>
 
-![Alt text](https://imgur.com/a/3XpfBUw)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/palak_maniar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/palak_maniar) 
 
